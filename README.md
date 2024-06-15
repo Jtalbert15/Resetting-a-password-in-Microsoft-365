@@ -1,6 +1,10 @@
 # Resetting-a-password-in-Microsoft-365
-In this Lab we will reset a users password and email the new password to our admin email
 
+<h1>Summary</h1>
+
+In this Lab we will reset a users password in Microsoft 365. Unlike Active Directory we can have Microsoft generate a temporary password as well as have the password emailed to yourself in case you need to reference the temporary password again.
+
+<h1>Step 1) Resetting a Users Password</h1>
 To start we need to navigate to the admin center
 
 <img width="957" alt="Screenshot 2024-05-26 at 10 30 15 AM" src="https://github.com/Jtalbert15/Resetting-a-password-in-Microsoft-365/assets/66844406/37680442-c20a-4c28-850a-dc2a33c1db57">
